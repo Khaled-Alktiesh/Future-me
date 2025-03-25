@@ -1,1 +1,11 @@
-Future me app development
+# Ps Whole group worked with the code, but we had issues uploading it from different accounts.
+
+When you run the app, you will get 4 options for the 4 features we have.
+
+Option 1: Mood linked habit linking, This option will allow you to pick an emoji based on how you feel and write down your mood.
+
+option 2: Daily Motications: this option will generate a random qoute to cheer you up.
+
+option 3: Challenge mode: This option will allow you to set multiple goals that want to achieve, it works as a checklist in a way.
+
+option 4: Choose today's mode: This option allows you to pick one of 5 emojis and based on which one you choose (your mood) you will get some advice.
